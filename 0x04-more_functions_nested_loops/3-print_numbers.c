@@ -5,6 +5,7 @@
  * Return: no return
  */
 
+void _putchar();
 void print_numbers(void)
 {
 	int i;
